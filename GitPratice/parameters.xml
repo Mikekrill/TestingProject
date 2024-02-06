@@ -5,7 +5,7 @@
 
     <!-- Configure Listeners -->
     <listeners>
-        <listener class-name="customlisteners.Listeners"></listener>
+        <listener class-name="custosmlisteners.Listeners"></listener>
         <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
     </listeners>
     
