@@ -2,7 +2,7 @@
 
 <suite name="All Suites">
     <listeners>
-        <listener class-name="customlisteners.Listeners"></listener>
+        <listener class-name="customnlisteners.Listeners"></listener>
         <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
     </listeners>
     <suite-files>
